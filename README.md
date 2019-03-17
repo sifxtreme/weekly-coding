@@ -14,6 +14,8 @@ Keep track of what I did for my personal projects and what I need to do.
 | Feb 17, 2019 | 2 hours | ask-me | investigate Slackbot | 
 | Feb 24, 2019 | 0.5 hours | ask-me | fix bug with timezones | 
 | Feb 24, 2019 | 4.25 hours | jarvis | move from Tartan Plaid API to Development Plaid API, move from React to Vue, move from Material Design to Element UI |
+| March 3, 2019 | 1 hours | jarvis | start adding color for rows, start on field to edit transactions | 
+| March 10, 2019 | 3 hours | jarvis | swap out favicon, pressing enter should search, add css classes, ability to add/edit transactions | 
 
 ## Future
 
@@ -22,13 +24,6 @@ Keep track of what I did for my personal projects and what I need to do.
 
 ### Jarvis
 
-- Pressing enter should "search"
-- Swap out Favicon
-- Add hidden/review CSS classes
-- Add hidden/review fields
-- Add ability to edit transactions
-- Add way to add new transactions
-- Make mobile friendly
 
 ### Infra
 - Upgrade to Resque 2.0
