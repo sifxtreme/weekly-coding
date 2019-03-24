@@ -16,6 +16,7 @@ Keep track of what I did for my personal projects and what I need to do.
 | Feb 24, 2019 | 4.25 hours | jarvis | move from Tartan Plaid API to Development Plaid API, move from React to Vue, move from Material Design to Element UI |
 | March 3, 2019 | 1 hours | jarvis | start adding color for rows, start on field to edit transactions | 
 | March 10, 2019 | 3 hours | jarvis | swap out favicon, pressing enter should search, add css classes, ability to add/edit transactions | 
+| March 17, 2019 | 2 hours | taxes | (sigh...) | 
 
 ## Future
 
@@ -23,7 +24,6 @@ Keep track of what I did for my personal projects and what I need to do.
 - Schedule should come from DB
 
 ### Jarvis
-
 
 ### Infra
 - Upgrade to Resque 2.0
