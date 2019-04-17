@@ -17,6 +17,11 @@ Keep track of what I did for my personal projects and what I need to do.
 | March 3, 2019 | 1 hours | jarvis | start adding color for rows, start on field to edit transactions | 
 | March 10, 2019 | 3 hours | jarvis | swap out favicon, pressing enter should search, add css classes, ability to add/edit transactions | 
 | March 17, 2019 | 2 hours | taxes | (sigh...) | 
+| March 24, 2019 | 0.5 hours | ask-me | change schedule |
+| March 31, 2019 | 2 hours | serverless | investigate serverless framework |
+| April 7, 2019 | - | - | sleep |
+| April 14, 2019 | 2 hours | jarvis | linting + amount sorting in UI |
+
 
 ## Future
 
@@ -26,4 +31,4 @@ Keep track of what I did for my personal projects and what I need to do.
 ### Jarvis
 
 ### Infra
-- Upgrade to Resque 2.0
+- Switch to Sidekiq
