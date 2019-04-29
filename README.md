@@ -21,6 +21,8 @@ Keep track of what I did for my personal projects and what I need to do.
 | March 31, 2019 | 2 hours | serverless | investigate serverless framework |
 | April 7, 2019 | - | - | sleep |
 | April 14, 2019 | 2 hours | jarvis | linting + amount sorting in UI |
+| April 21, 2019 | 1 hour | jarvis | better categorization algo |
+| April 28, 2019 | 1 hour | jarvis | fix citi account |
 
 
 ## Future
