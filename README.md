@@ -23,6 +23,7 @@ Keep track of what I did for my personal projects and what I need to do.
 | April 14, 2019 | 2 hours | jarvis | linting + amount sorting in UI |
 | April 21, 2019 | 1 hour | jarvis | better categorization algo |
 | April 28, 2019 | 1 hour | jarvis | fix citi account |
+| Dec 8, 2019 | 3 hours | jarvis, planning | fix citi balances, add vue-router, add balances endpoint, consider vuetify instead of element css, investigate twilio rates |
 
 
 ## Future
@@ -33,4 +34,4 @@ Keep track of what I did for my personal projects and what I need to do.
 ### Jarvis
 
 ### Infra
-- Switch to Sidekiq
+
